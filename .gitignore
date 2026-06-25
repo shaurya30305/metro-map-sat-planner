@@ -1,0 +1,8 @@
+tests/*.satinput
+tests/*.satoutput
+tests/*.metromap
+tests/*.paths_debug
+*.satinput
+*.satoutput
+*.metromap
+*.paths_debug
